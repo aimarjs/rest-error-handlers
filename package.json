@@ -32,6 +32,7 @@
     "access": "public"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
     "@types/express": "^4.17.13",
     "@typescript-eslint/eslint-plugin": "^5.10.2",
     "eslint": "^8.8.0",
