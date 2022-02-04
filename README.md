@@ -4,4 +4,4 @@
 
 Package to handle common express Rest API errors
 
-no docs yet
+no docs yet...
