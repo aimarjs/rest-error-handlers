@@ -16,7 +16,12 @@
     "type": "git",
     "url": "git+https://github.com/aimarjs/error-handlers.git"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs",
+    "semantic-release",
+    "rest-api",
+    "helper-package"
+  ],
   "author": "Aimar Aareleid",
   "license": "ISC",
   "bugs": {
