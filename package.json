@@ -12,10 +12,6 @@
     "lint": "eslint src/**/*.ts",
     "format": "eslint src/**/*.ts --fix"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aimarjs/error-handlers.git"
-  },
   "keywords": [
     "nodejs",
     "semantic-release",
