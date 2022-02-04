@@ -1,5 +1,5 @@
 {
-  "name": "@aimarjs/error-handler",
+  "name": "@aimarjs/error-handlers",
   "version": "0.0.1-development",
   "description": "Package to handle common express Rest API errors",
   "main": "./build/index.js",
@@ -29,7 +29,9 @@
   },
   "homepage": "https://github.com/aimarjs/error-handlers#readme",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/",
+    "tag": "latest"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
