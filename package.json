@@ -20,10 +20,6 @@
   ],
   "author": "Aimar Aareleid",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aimarjs/error-handlers/issues"
-  },
-  "homepage": "https://github.com/aimarjs/error-handlers#readme",
   "publishConfig": {
     "access": "public"
   },
