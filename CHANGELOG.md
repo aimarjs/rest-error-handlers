@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/aimarjs/rest-error-handlers/compare/v1.0.1...v1.1.0) (2022-02-04)
+
+
+### Features
+
+* add multer error handling ([bbe9834](https://github.com/aimarjs/rest-error-handlers/commit/bbe983429ea88e080fc0584a84de111ed80b0db2))
+* handle multer errors ([cb2a7bb](https://github.com/aimarjs/rest-error-handlers/commit/cb2a7bb8d66ab3b0d50d030d3202702032c42bbb))
+
 ## [1.0.1](https://github.com/aimarjs/rest-error-handlers/compare/v1.0.0...v1.0.1) (2022-02-04)
 
 
