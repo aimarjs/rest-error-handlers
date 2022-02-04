@@ -1,0 +1,29 @@
+{
+  "name": "error-handlers",
+  "version": "1.0.0",
+  "description": "Package to handle common express Rest API errors",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "files": [
+    "build/**/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimarjs/error-handlers.git"
+  },
+  "keywords": [],
+  "author": "Aimar Aareleid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimarjs/error-handlers/issues"
+  },
+  "homepage": "https://github.com/aimarjs/error-handlers#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "typescript": "^4.5.5"
+  }
+}
