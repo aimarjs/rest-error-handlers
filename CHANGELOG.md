@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/aimarjs/error-handlers/compare/v1.0.0...v1.0.1) (2022-02-04)
+
+
+### Bug Fixes
+
+* update repo ([e085413](https://github.com/aimarjs/error-handlers/commit/e08541383f5bafb1c5822fc4369171f71362c379))
+
 # 1.0.0 (2022-02-04)
 
 

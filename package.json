@@ -1,6 +1,6 @@
 {
   "name": "@aimarjs/error-handlers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to handle common express Rest API errors",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
