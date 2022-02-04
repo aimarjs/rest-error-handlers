@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/aimarjs/rest-error-handlers/compare/v1.0.0...v1.0.1) (2022-02-04)
+
+
+### Bug Fixes
+
+* package.json ([dff6814](https://github.com/aimarjs/rest-error-handlers/commit/dff6814367b2c31660057f229128b63bed50f9d9))
+
 # 1.0.0 (2022-02-04)
 
 
