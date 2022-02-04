@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/aimarjs/rest-error-handlers/compare/v1.1.0...v1.1.1) (2022-02-04)
+
+
+### Bug Fixes
+
+* update target to es2015 ([90022e8](https://github.com/aimarjs/rest-error-handlers/commit/90022e8f64943d2cd4c63952846775cb6efc658a))
+
 # [1.1.0](https://github.com/aimarjs/rest-error-handlers/compare/v1.0.1...v1.1.0) (2022-02-04)
 
 
