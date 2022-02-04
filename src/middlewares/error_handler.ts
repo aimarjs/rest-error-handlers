@@ -7,6 +7,9 @@ export const errorHandler = (
     req: Request,
     res: Response,
 ) => {
+
+    console.log("ERROR MINGI", err);
+
     if (err instanceof CustomError) {
         return res.status(err.statusCode).send({ errors: err.serializeErrors() });
     }
